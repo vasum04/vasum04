@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasum04&label=Profile%20views&color=0e75b6&style=flat" alt="vasum04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasum04" alt="vasum04" /></a> </p>
-
 - Technology Spring Analyst at Morgan Stanley, Mumbai (01/2023 to 07/2023) **Spearheaded a Python-based automation script, boosting efficiency by 70%. Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend. Innovated with dynamic chart capabilities for tailored data visualizations.**
 
 - 🌱 I’m currently learning **Deep Learning with Tensor Flow, Advanced Data Visualization with D3.js and**
