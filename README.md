@@ -28,6 +28,3 @@ Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasum04&show_icons=true&locale=en&layout=compact" alt="vasum04" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasum04&show_icons=true&locale=en" alt="vasum04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasum04&" alt="vasum04" /></p>
