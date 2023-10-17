@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasudev Mishra</h1>
 <h3 align="center">📊 Data Enthusiast diving deep into Analytics & ML, with a touch of Full-Stack magic.</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:960/1*5CZwLt-HSxgaztHi-lxs3g.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasum04&label=Profile%20views&color=0e75b6&style=flat" alt="vasum04" /> </p>
 
