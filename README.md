@@ -7,9 +7,9 @@
 
 - Technology Spring Analyst at Morgan Stanley, Mumbai (01/2023 to 07/2023) **Spearheaded a Python-based automation script, boosting efficiency by 70%. Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend. Innovated with dynamic chart capabilities for tailored data visualizations.**
 
-- 🌱 I’m currently learning **Deep Learning with Tensor Flow, Advanced Data Visualization with D3.js and**
-
 - Full Stack Developer at YHills (Remote, 06/2021 - 09/2021) **Designed and developed a comprehensive restaurant website. Mastered best practices in web application development. Garnered positive feedback for functionality, design, and responsiveness**
+
+- 🌱 I’m currently learning **Deep Learning with Tensor Flow, Advanced Data Visualization with D3.js and NoSQL Database Optimization**
 
 - 📫 How to reach me **vasudevmishra04@gmail.com**
 
