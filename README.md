@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasum04&label=Profile%20views&color=0e75b6&style=flat" alt="vasum04" /> </p>
 
+- Cloud Support Associate, Bengaluru (02/24 to Present) 
+
 - Technology Spring Analyst at Morgan Stanley, Mumbai (01/2023 to 07/2023) **Spearheaded a Python-based automation script, boosting efficiency.
 Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend. Innovated with dynamic chart capabilities for tailored data visualizations.**
 
