@@ -34,7 +34,7 @@ Real-time Data Streaming using Apache Kafka & AWS Kinesis
 
 - 📫 How to reach me **vasudevmishra04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jMHOXQJOaoNuAfXQ3v9VZ8vFm25n9NfV/view?usp=sharing](https://drive.google.com/file/d/1jMHOXQJOaoNuAfXQ3v9VZ8vFm25n9NfV/view?usp=sharing)
+- 📄 Know about my experiences (Resume):- [https://drive.google.com/file/d/1ubRY0Mv7HXlXZFsEyjxP27YbsC7uFqGt/view?usp=sharing]([https://drive.google.com/file/d/1jMHOXQJOaoNuAfXQ3v9VZ8vFm25n9NfV/view?usp=sharing](https://drive.google.com/file/d/1ubRY0Mv7HXlXZFsEyjxP27YbsC7uFqGt/view?usp=sharing))
 
 - ⚡ Fun fact **🎸 When I'm not diving into code, I'm strumming tunes on my guitar.**
 
