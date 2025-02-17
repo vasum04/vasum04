@@ -1,22 +1,40 @@
 <h1 align="center">Hi 👋, I'm Vasudev Mishra</h1>
-<h3 align="center">📊 Data Enthusiast diving deep into Analytics & ML, with a touch of Full-Stack magic.</h3>
+<h3 align="center">📊 Cloud & Data Engineering | Big Data | AI & ML | AWS Solutions Architect</h3>
+
+---
 
 <img align="right" alt="coding" width="300" style="border-radius: 50%;" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasum04&label=Profile%20views&color=0e75b6&style=flat" alt="vasum04" /> </p>
 
-- Cloud Support Associate, Bengaluru (02/24 to Present) 
+- Cloud Support Associate at Amazon Web Services (AWS), Bengaluru (02/24 to Present) **Assisting AWS customers in Big Data & Cloud Architecture, troubleshooting complex systems.
+Worked on ETL pipelines (Glue, S3, DynamoDB) and AI-driven ticket classification using different AWS Services.**
 
 - Technology Spring Analyst at Morgan Stanley, Mumbai (01/2023 to 07/2023) **Spearheaded a Python-based automation script, boosting efficiency.
 Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend. Innovated with dynamic chart capabilities for tailored data visualizations.**
 
 - Full Stack Developer at YHills (Remote, 06/2021 - 09/2021) **Designed and developed a comprehensive restaurant website. Mastered best practices in web application development. Garnered positive feedback for functionality, design, and responsiveness**
 
-- 🌱 I’m currently learning **Deep Learning with Tensor Flow, Advanced Data Visualization with D3.js and NoSQL Database Optimization**
+---
+
+- **🎓 Certification -**
+✅ AWS Certified Solutions Architect – Associate :-
+Expertise in designing scalable, secure, and cost-optimized AWS solutions.
+Strong knowledge of compute, storage, networking, security, and cost management.
+
+---
+
+- **📖 I’m currently learning -** 
+Advanced Data Engineering Concepts:
+Building Scalable Data Pipelines with AWS Glue, S3, and Lambda
+ETL Optimization & Performance Tuning using AWS Athena & DynamoDB
+Data Modeling & Partitioning Strategies for NoSQL & Distributed Systems
+Workflow Orchestration with AWS Step Functions & Apache Airflow
+Real-time Data Streaming using Apache Kafka & AWS Kinesis
 
 - 📫 How to reach me **vasudevmishra04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18sKNAqcfwUtCbkX0fhfh-Ed7vELptFFO/view?usp=sharing](https://drive.google.com/file/d/18sKNAqcfwUtCbkX0fhfh-Ed7vELptFFO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jMHOXQJOaoNuAfXQ3v9VZ8vFm25n9NfV/view?usp=sharing](https://drive.google.com/file/d/1jMHOXQJOaoNuAfXQ3v9VZ8vFm25n9NfV/view?usp=sharing)
 
 - ⚡ Fun fact **🎸 When I'm not diving into code, I'm strumming tunes on my guitar.**
 
@@ -26,7 +44,16 @@ Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🚀 Cloud & Data Engineering
+<p align="left"> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Lambda" /> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" /> <img src="https://img.shields.io/badge/AWS_CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFront" /> <img src="https://img.shields.io/badge/AWS_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="AWS DynamoDB" /> <img src="https://img.shields.io/badge/AWS_Redshift-CC0000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS RedShift" /> <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Glue" /> <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Athena" /> </p>
+📊 Big Data & Analytics
+<p align="left"> <img src="https://img.shields.io/badge/PySpark-1F77B4?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" /> <img src="https://img.shields.io/badge/Apache_Spark-FEAA2D?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" /> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" /> </p>
+💾 Databases
+<p align="left"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
+💻 Programming & Backend
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF4500?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA" /> <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" /> </p>
+⚙️ CI/CD & DevOps
+<p align="left"> <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasum04&show_icons=true&locale=en&layout=compact" alt="vasum04" /></p>
 
