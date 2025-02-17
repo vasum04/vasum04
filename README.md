@@ -17,7 +17,6 @@ Developed enhanced RESTful APIs integrating seamlessly with an Angular frontend.
 
 - Full Stack Developer at YHills (Remote, 06/2021 - 09/2021) **Designed and developed a comprehensive restaurant website. Mastered best practices in web application development. Garnered positive feedback for functionality, design, and responsiveness**
 
----
 
 - **🎓 Certification -**
 ✅ AWS Certified Solutions Architect – Associate :-
